@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/arc-wawancara/static/css/main.22b6e383.chunk.css",
+    "main.js": "/arc-wawancara/static/js/main.1815bb48.chunk.js",
+    "main.js.map": "/arc-wawancara/static/js/main.1815bb48.chunk.js.map",
+    "runtime-main.js": "/arc-wawancara/static/js/runtime-main.16dc51de.js",
+    "runtime-main.js.map": "/arc-wawancara/static/js/runtime-main.16dc51de.js.map",
+    "static/css/2.2f9ba80b.chunk.css": "/arc-wawancara/static/css/2.2f9ba80b.chunk.css",
+    "static/js/2.bdce23e3.chunk.js": "/arc-wawancara/static/js/2.bdce23e3.chunk.js",
+    "static/js/2.bdce23e3.chunk.js.map": "/arc-wawancara/static/js/2.bdce23e3.chunk.js.map",
+    "static/js/3.b8cab086.chunk.js": "/arc-wawancara/static/js/3.b8cab086.chunk.js",
+    "static/js/3.b8cab086.chunk.js.map": "/arc-wawancara/static/js/3.b8cab086.chunk.js.map",
+    "index.html": "/arc-wawancara/index.html",
+    "static/css/2.2f9ba80b.chunk.css.map": "/arc-wawancara/static/css/2.2f9ba80b.chunk.css.map",
+    "static/css/main.22b6e383.chunk.css.map": "/arc-wawancara/static/css/main.22b6e383.chunk.css.map",
+    "static/js/2.bdce23e3.chunk.js.LICENSE.txt": "/arc-wawancara/static/js/2.bdce23e3.chunk.js.LICENSE.txt",
+    "static/media/apta.a31cb339.png": "/arc-wawancara/static/media/apta.a31cb339.png",
+    "static/media/aufa.848797db.png": "/arc-wawancara/static/media/aufa.848797db.png",
+    "static/media/ave.7bec7234.png": "/arc-wawancara/static/media/ave.7bec7234.png",
+    "static/media/ivan.14636449.png": "/arc-wawancara/static/media/ivan.14636449.png",
+    "static/media/pat.39efcfab.png": "/arc-wawancara/static/media/pat.39efcfab.png",
+    "static/media/rofif.8d26418d.png": "/arc-wawancara/static/media/rofif.8d26418d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.16dc51de.js",
+    "static/css/2.2f9ba80b.chunk.css",
+    "static/js/2.bdce23e3.chunk.js",
+    "static/css/main.22b6e383.chunk.css",
+    "static/js/main.1815bb48.chunk.js"
+  ]
+}
