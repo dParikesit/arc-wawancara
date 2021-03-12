@@ -5,7 +5,7 @@ function Modal (props){
   return (
     <>
       <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target={props.target}>
-        Launch demo modal
+        View Details
       </button>
       <div class="modal fade" id={props.id} tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
         <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">

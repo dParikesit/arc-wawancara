@@ -1,10 +1,13 @@
 import './App.css';
 import GridLayout from './layouts/GridLayout';
-import Modal from './components/Modal/Modal';
+import TopBar from './components/TopBar/TopBar';
 
 function App() {
   return (
-    <GridLayout />
+    <>
+      <TopBar />
+      <GridLayout />
+    </>
   );
 }
 
